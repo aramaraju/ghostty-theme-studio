@@ -2,7 +2,14 @@
 
 A visual editor to design, live-preview, and export custom [Ghostty](https://ghostty.org) terminal themes.
 
-> **Live demo:** [https://aramaraju.github.io/ghostty-theme-studio/](https://aramaraju.github.io/ghostty-theme-studio/) *(deploy pending)*
+> **Live demo:** [https://aramaraju.github.io/ghostty-theme-studio/](https://aramaraju.github.io/ghostty-theme-studio/)
+
+![Ghostty Theme Studio — main view](assets/screenshots/main.png)
+
+<p align="center">
+  <img src="assets/screenshots/stone-grove.png" width="49%" alt="Stone Grove palette" />
+  <img src="assets/screenshots/midnight-ocean.png" width="49%" alt="Midnight Ocean palette" />
+</p>
 
 ## The problem
 
@@ -18,6 +25,8 @@ Ghostty is configured by a plain text file. Browsing existing themes is solved �
   - *Stone Grove* — earthy retro (inspired by Gruvbox Dark)
   - *Midnight Ocean* — cool arctic blues (inspired by Nord)
 - **WCAG contrast checker** — flags fg/bg pairs below AA threshold in real time.
+
+![Contrast warning](assets/screenshots/contrast-warning.png)
 
 ## Run locally
 
